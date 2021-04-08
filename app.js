@@ -1,4 +1,4 @@
 let a = 10;
-let b = 10;
-let c = 10;
-let d = 10;
+let e = 10;
+let f = 10;
+let g = 10;
