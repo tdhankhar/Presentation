@@ -1,2 +1,9 @@
 const a = 5;
-console.log("This is test.js from main branch");
+console.log("This is some message");
+const b = 5;
+const c = 5;
+console.log("This is some message");
+const d = 5;
+const e = 5;
+console.log("This is some message");
+const f = 5;
